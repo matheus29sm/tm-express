@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    /* background-color: #121212; */
+}
+
+.header .logo {
+    display: flex;
+    border-radius: 8px;
+    padding: 0px 0 0 16px;
+}
+
+.header .logo img {
+    width: 100px;
+    height: 70px;
+}
+
+.header a{
+    text-decoration: none;
+}
+
+.header .titulo {
+    font-family: Caladea;
+    font-style: oblique;
+    font-size: 20px;
+    margin-left: 10px;
+    color: #f4f4f4;
+    text-shadow: 5px 5px 5px rgba(192,192,192, 0.5);
+}

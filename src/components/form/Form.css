@@ -1,0 +1,7 @@
+.buttons { 
+    width: 80%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px; /* Adicione a margem inferior desejada */
+}
